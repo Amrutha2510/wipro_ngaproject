@@ -1,3 +1,6 @@
+/*Write the
+logic to print star pattern or rectangle star pattern.*/
+
     #include <stdio.h>  
      int main()  
     {  
